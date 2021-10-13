@@ -2,6 +2,6 @@
 
 Study Project (Complete JavaScript Course (Jonas Shmedtmann)
 
-login : js
+login : js / 
 psw : 1111
 
